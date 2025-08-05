@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Kama Rajeshbabu (Kairos) 👋</h1>
+<h1 align="center">Hi, I’m Kama Rajeshbabu 👋</h1>
 <p align="center">
   <b>AI builder. System thinker. Relentless maker.</b><br>
   I build agents, tools, and systems that do the work — so humans can think bigger.
